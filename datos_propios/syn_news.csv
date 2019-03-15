@@ -1,0 +1,13030 @@
+text {
+  content: "Autoridades"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: NSUBJ
+}
+lemma: "Autoridad"
+: Autoridadestext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "admiten"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 2
+  label: ROOT
+}
+lemma: "admitir"
+: admitentext {
+  content: "paso"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: DOBJ
+}
+lemma: "paso"
+: pasotext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "estudiantes"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: POBJ
+}
+lemma: "estudiante"
+: estudiantestext {
+  content: "y"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: CONJ
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: CC
+}
+lemma: "y"
+: ytext {
+  content: "enfermos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: CONJ
+}
+lemma: "enfermo"
+: enfermostext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "20"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NUM
+  gender: MASCULINE
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: NUM
+}
+lemma: "20"
+: 20text {
+  content: "años"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "año"
+: añostext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "cárcel"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: POBJ
+}
+lemma: "cárcel"
+: cárceltext {
+  content: "para"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "para"
+: paratext {
+  content: "dos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NUM
+  gender: FEMININE
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: NUM
+}
+lemma: "dos"
+: dostext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: POBJ
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "que"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PRON
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: NSUBJ
+}
+lemma: "que"
+: quetext {
+  content: "asesinaron"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: PERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PAST
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 6
+  label: RCMOD
+}
+lemma: "asesinar"
+: asesinarontext {
+  content: "a"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: PREP
+}
+lemma: "a"
+: atext {
+  content: "reciclador"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: POBJ
+}
+lemma: "reciclador"
+: reciclador
+text {
+  content: "La"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: DET
+}
+lemma: "El"
+: Latext {
+  content: "\'"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: P
+}
+lemma: "\'"
+: 'text {
+  content: "mami"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: ROOT
+}
+lemma: "mami"
+: mamitext {
+  content: "\'"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: P
+}
+lemma: "\'"
+: 'text {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "La"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: DET
+}
+lemma: "El"
+: Latext {
+  content: "Parada"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: POBJ
+}
+lemma: "Parada"
+: Paradatext {
+  content: ","
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: P
+}
+lemma: ","
+: ,text {
+  content: "una"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: DET
+}
+lemma: "un"
+: unatext {
+  content: "luz"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: APPOS
+}
+lemma: "luz"
+: luztext {
+  content: "para"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: PREP
+}
+lemma: "para"
+: paratext {
+  content: "los"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 12
+  label: DET
+}
+lemma: "el"
+: lostext {
+  content: "migrantes"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 10
+  label: POBJ
+}
+lemma: "migrante"
+: migrantestext {
+  content: "("
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 14
+  label: P
+}
+lemma: "("
+: (text {
+  content: "Venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 12
+  label: AMOD
+}
+lemma: "Venezolano"
+: Venezolanastext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 14
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Cuatro"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NUM
+  gender: MASCULINE
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: NUM
+}
+lemma: "Cuatro"
+: Cuatrotext {
+  content: "detenidos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "detener"
+: detenidostext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "España"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: POBJ
+}
+lemma: "España"
+: Españatext {
+  content: "por"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "por"
+: portext {
+  content: "explotar"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  proper: NOT_PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 4
+  label: PCOMP
+}
+lemma: "explotar"
+: explotartext {
+  content: "sexualmente"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADV
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: ADVMOD
+}
+lemma: "sexualmente"
+: sexualmentetext {
+  content: "a"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: PREP
+}
+lemma: "a"
+: atext {
+  content: "mujeres"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: POBJ
+}
+lemma: "mujer"
+: mujerestext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Por"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: PREP
+}
+lemma: "Por"
+: Portext {
+  content: "falsas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: AMOD
+}
+lemma: "falso"
+: falsastext {
+  content: "promesas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: POBJ
+}
+lemma: "promesa"
+: promesastext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "trabajo"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: POBJ
+}
+lemma: "trabajo"
+: trabajotext {
+  content: ","
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: P
+}
+lemma: ","
+: ,text {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "terminan"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 7
+  label: ROOT
+}
+lemma: "terminar"
+: terminantext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Cuatro"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NUM
+  gender: MASCULINE
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: NUM
+}
+lemma: "Cuatro"
+: Cuatrotext {
+  content: "detenidos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "detener"
+: detenidostext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "España"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: POBJ
+}
+lemma: "España"
+: Españatext {
+  content: "por"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "por"
+: portext {
+  content: "prostituir"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  proper: NOT_PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 4
+  label: PCOMP
+}
+lemma: "prostituir"
+: prostituirtext {
+  content: "a"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: PREP
+}
+lemma: "a"
+: atext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: POBJ
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "y"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: CONJ
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: CC
+}
+lemma: "y"
+: ytext {
+  content: "colombianas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: CONJ
+}
+lemma: "colombiano"
+: colombianas
+text {
+  content: "Autoridades"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: NSUBJ
+}
+lemma: "Autoridad"
+: Autoridadestext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "instalan"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 2
+  label: ROOT
+}
+lemma: "instalar"
+: instalantext {
+  content: "un"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: DET
+}
+lemma: "un"
+: untext {
+  content: "nuevo"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: AMOD
+}
+lemma: "nuevo"
+: nuevotext {
+  content: "contenedor"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: DOBJ
+}
+lemma: "contenedor"
+: contenedortext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "puente"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: POBJ
+}
+lemma: "puente"
+: puentetext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "¡"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: P
+}
+lemma: "¡"
+: ¡text {
+  content: "Así"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADV
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: ADVMOD
+}
+lemma: "Así"
+: Asítext {
+  content: "lavan"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 2
+  label: ROOT
+}
+lemma: "lavar"
+: lavantext {
+  content: "los"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: DET
+}
+lemma: "el"
+: lostext {
+  content: "platos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: DOBJ
+}
+lemma: "plato"
+: platostext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "Venezuela"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: POBJ
+}
+lemma: "Venezuela"
+: Venezuelatext {
+  content: "!"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: P
+}
+lemma: "!"
+: !
+text {
+  content: "Desmantelan"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: AMOD
+}
+lemma: "Desmantelar"
+: Desmantelantext {
+  content: "banda"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "banda"
+: bandatext {
+  content: "que"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PRON
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: NSUBJ
+}
+lemma: "que"
+: quetext {
+  content: "prostituía"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PAST
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 1
+  label: RCMOD
+}
+lemma: "prostituir"
+: prostituíatext {
+  content: "a"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: PREP
+}
+lemma: "a"
+: atext {
+  content: "colombianas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: POBJ
+}
+lemma: "colombiano"
+: colombianastext {
+  content: "y"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: CONJ
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: CC
+}
+lemma: "y"
+: ytext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: CONJ
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "\'"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: P
+}
+lemma: "\'"
+: 'text {
+  content: "Dije"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: PERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: FIRST
+  proper: NOT_PROPER
+  tense: PAST
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "Dije"
+: Dijetext {
+  content: "la"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: DET
+}
+lemma: "el"
+: latext {
+  content: "verdad"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: DOBJ
+}
+lemma: "verdad"
+: verdadtext {
+  content: ","
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: P
+}
+lemma: ","
+: ,text {
+  content: "son"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 1
+  label: PARATAXIS
+}
+lemma: "ser"
+: sontext {
+  content: "una"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: DET
+}
+lemma: "un"
+: unatext {
+  content: "fábrica"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: ATTR
+}
+lemma: "fábrica"
+: fábricatext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "niños"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: POBJ
+}
+lemma: "niño"
+: niñostext {
+  content: "pobres"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: AMOD
+}
+lemma: "pobre"
+: pobrestext {
+  content: "\'"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: P
+}
+lemma: "\'"
+: 'text {
+  content: ":"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: P
+}
+lemma: ":"
+: :text {
+  content: "Rodolfo"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: APPOS
+}
+lemma: "Rodolfo"
+: Rodolfotext {
+  content: "Hernández"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 13
+  label: NN
+}
+lemma: "Hernández"
+: Hernández
+text {
+  content: "Autoridades"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: NSUBJ
+}
+lemma: "Autoridad"
+: Autoridadestext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "admiten"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 2
+  label: ROOT
+}
+lemma: "admitir"
+: admitentext {
+  content: "paso"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: DOBJ
+}
+lemma: "paso"
+: pasotext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "estudiantes"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: POBJ
+}
+lemma: "estudiante"
+: estudiantestext {
+  content: "y"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: CONJ
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: CC
+}
+lemma: "y"
+: ytext {
+  content: "enfermos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: CONJ
+}
+lemma: "enfermo"
+: enfermostext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "20"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NUM
+  gender: MASCULINE
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: NUM
+}
+lemma: "20"
+: 20text {
+  content: "años"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "año"
+: añostext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "cárcel"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: POBJ
+}
+lemma: "cárcel"
+: cárceltext {
+  content: "para"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "para"
+: paratext {
+  content: "dos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NUM
+  gender: FEMININE
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: NUM
+}
+lemma: "dos"
+: dostext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: POBJ
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "que"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PRON
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: NSUBJ
+}
+lemma: "que"
+: quetext {
+  content: "asesinaron"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: PERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PAST
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 6
+  label: RCMOD
+}
+lemma: "asesinar"
+: asesinarontext {
+  content: "a"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: PREP
+}
+lemma: "a"
+: atext {
+  content: "reciclador"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: POBJ
+}
+lemma: "reciclador"
+: reciclador
+text {
+  content: "La"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: DET
+}
+lemma: "El"
+: Latext {
+  content: "\'"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: P
+}
+lemma: "\'"
+: 'text {
+  content: "mami"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: ROOT
+}
+lemma: "mami"
+: mamitext {
+  content: "\'"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: P
+}
+lemma: "\'"
+: 'text {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "La"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: DET
+}
+lemma: "El"
+: Latext {
+  content: "Parada"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: POBJ
+}
+lemma: "Parada"
+: Paradatext {
+  content: ","
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: P
+}
+lemma: ","
+: ,text {
+  content: "una"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: DET
+}
+lemma: "un"
+: unatext {
+  content: "luz"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: APPOS
+}
+lemma: "luz"
+: luztext {
+  content: "para"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: PREP
+}
+lemma: "para"
+: paratext {
+  content: "los"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 12
+  label: DET
+}
+lemma: "el"
+: lostext {
+  content: "migrantes"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 10
+  label: POBJ
+}
+lemma: "migrante"
+: migrantestext {
+  content: "("
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 14
+  label: P
+}
+lemma: "("
+: (text {
+  content: "Venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 12
+  label: AMOD
+}
+lemma: "Venezolano"
+: Venezolanastext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 14
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Cuatro"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NUM
+  gender: MASCULINE
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: NUM
+}
+lemma: "Cuatro"
+: Cuatrotext {
+  content: "detenidos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "detener"
+: detenidostext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "España"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: POBJ
+}
+lemma: "España"
+: Españatext {
+  content: "por"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "por"
+: portext {
+  content: "explotar"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  proper: NOT_PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 4
+  label: PCOMP
+}
+lemma: "explotar"
+: explotartext {
+  content: "sexualmente"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADV
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: ADVMOD
+}
+lemma: "sexualmente"
+: sexualmentetext {
+  content: "a"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: PREP
+}
+lemma: "a"
+: atext {
+  content: "mujeres"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: POBJ
+}
+lemma: "mujer"
+: mujerestext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Por"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: PREP
+}
+lemma: "Por"
+: Portext {
+  content: "falsas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: AMOD
+}
+lemma: "falso"
+: falsastext {
+  content: "promesas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: POBJ
+}
+lemma: "promesa"
+: promesastext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "trabajo"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: POBJ
+}
+lemma: "trabajo"
+: trabajotext {
+  content: ","
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: P
+}
+lemma: ","
+: ,text {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "terminan"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 7
+  label: ROOT
+}
+lemma: "terminar"
+: terminantext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Cuatro"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NUM
+  gender: MASCULINE
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: NUM
+}
+lemma: "Cuatro"
+: Cuatrotext {
+  content: "detenidos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "detener"
+: detenidostext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "España"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: POBJ
+}
+lemma: "España"
+: Españatext {
+  content: "por"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "por"
+: portext {
+  content: "prostituir"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  proper: NOT_PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 4
+  label: PCOMP
+}
+lemma: "prostituir"
+: prostituirtext {
+  content: "a"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: PREP
+}
+lemma: "a"
+: atext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: POBJ
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "y"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: CONJ
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: CC
+}
+lemma: "y"
+: ytext {
+  content: "colombianas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: CONJ
+}
+lemma: "colombiano"
+: colombianas
+text {
+  content: "Autoridades"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: NSUBJ
+}
+lemma: "Autoridad"
+: Autoridadestext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "instalan"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 2
+  label: ROOT
+}
+lemma: "instalar"
+: instalantext {
+  content: "un"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: DET
+}
+lemma: "un"
+: untext {
+  content: "nuevo"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: AMOD
+}
+lemma: "nuevo"
+: nuevotext {
+  content: "contenedor"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: DOBJ
+}
+lemma: "contenedor"
+: contenedortext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "puente"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: POBJ
+}
+lemma: "puente"
+: puentetext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "¡"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: P
+}
+lemma: "¡"
+: ¡text {
+  content: "Así"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADV
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: ADVMOD
+}
+lemma: "Así"
+: Asítext {
+  content: "lavan"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 2
+  label: ROOT
+}
+lemma: "lavar"
+: lavantext {
+  content: "los"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: DET
+}
+lemma: "el"
+: lostext {
+  content: "platos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: DOBJ
+}
+lemma: "plato"
+: platostext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "Venezuela"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: POBJ
+}
+lemma: "Venezuela"
+: Venezuelatext {
+  content: "!"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: P
+}
+lemma: "!"
+: !
+text {
+  content: "\'"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: P
+}
+lemma: "\'"
+: 'text {
+  content: "Dije"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: PERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: FIRST
+  proper: NOT_PROPER
+  tense: PAST
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "Dije"
+: Dijetext {
+  content: "la"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: DET
+}
+lemma: "el"
+: latext {
+  content: "verdad"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: DOBJ
+}
+lemma: "verdad"
+: verdadtext {
+  content: ","
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: P
+}
+lemma: ","
+: ,text {
+  content: "son"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 1
+  label: PARATAXIS
+}
+lemma: "ser"
+: sontext {
+  content: "una"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: DET
+}
+lemma: "un"
+: unatext {
+  content: "fábrica"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: ATTR
+}
+lemma: "fábrica"
+: fábricatext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "niños"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: POBJ
+}
+lemma: "niño"
+: niñostext {
+  content: "pobres"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: AMOD
+}
+lemma: "pobre"
+: pobrestext {
+  content: "\'"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: P
+}
+lemma: "\'"
+: 'text {
+  content: ":"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: P
+}
+lemma: ":"
+: :text {
+  content: "Rodolfo"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: APPOS
+}
+lemma: "Rodolfo"
+: Rodolfotext {
+  content: "Hernández"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 13
+  label: NN
+}
+lemma: "Hernández"
+: Hernández
+text {
+  content: "Muerte"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: ROOT
+}
+lemma: "Muerte"
+: Muertetext {
+  content: "lenta"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: AMOD
+}
+lemma: "lento"
+: lentatext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "Venezuela"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: POBJ
+}
+lemma: "Venezuela"
+: Venezuelatext {
+  content: ","
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: P
+}
+lemma: ","
+: ,text {
+  content: "la"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: DET
+}
+lemma: "el"
+: latext {
+  content: "vida"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: PARATAXIS
+}
+lemma: "vida"
+: vidatext {
+  content: "después"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADV
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: ADVMOD
+}
+lemma: "después"
+: despuéstext {
+  content: "del"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: PREP
+}
+lemma: "de"
+: deltext {
+  content: "apagón"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: POBJ
+}
+lemma: "apagón"
+: apagón
+text {
+  content: "Por"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "Por"
+: Portext {
+  content: "trocha"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: POBJ
+}
+lemma: "trocha"
+: trochatext {
+  content: "repatrían"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PAST
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 2
+  label: ROOT
+}
+lemma: "repatr"
+: repatríantext {
+  content: "cuerpos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: DOBJ
+}
+lemma: "cuerpo"
+: cuerpostext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "personas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: POBJ
+}
+lemma: "persona"
+: personastext {
+  content: "fallecidas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: VMOD
+}
+lemma: "fallecer"
+: fallecidastext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "Venezuela"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: POBJ
+}
+lemma: "Venezuela"
+: Venezuela
+text {
+  content: "Barco"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: NSUBJ
+}
+lemma: "Barco"
+: Barcotext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "Puerto"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: POBJ
+}
+lemma: "Puerto"
+: Puertotext {
+  content: "Rico"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: NN
+}
+lemma: "Rico"
+: Ricotext {
+  content: "hacia"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: PREP
+}
+lemma: "hacia"
+: haciatext {
+  content: "Venezuela"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: POBJ
+}
+lemma: "Venezuela"
+: Venezuelatext {
+  content: "“"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: P
+}
+lemma: "“"
+: “text {
+  content: "recibió"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: PERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PAST
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 7
+  label: ROOT
+}
+lemma: "recibir"
+: recibiótext {
+  content: "amenaza"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: DOBJ
+}
+lemma: "amenaza"
+: amenazatext {
+  content: "directa"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: AMOD
+}
+lemma: "directo"
+: directatext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 10
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "EEUU"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: NSUBJ
+}
+lemma: "EEUU"
+: EEUUtext {
+  content: "revoca"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "revocar"
+: revocatext {
+  content: "visas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: DOBJ
+}
+lemma: "visas"
+: visastext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "otros"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: DET
+}
+lemma: "otros"
+: otrostext {
+  content: "340"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NUM
+  gender: MASCULINE
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: NUM
+}
+lemma: "340"
+: 340text {
+  content: "allegados"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: POBJ
+}
+lemma: "allegados"
+: allegadostext {
+  content: "a"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "a"
+: atext {
+  content: "Maduro"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: POBJ
+}
+lemma: "Maduro"
+: Maduro
+text {
+  content: "Queman"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  label: ROOT
+}
+lemma: "Quemar"
+: Quemantext {
+  content: "dos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NUM
+  gender: MASCULINE
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: NUM
+}
+lemma: "dos"
+: dostext {
+  content: "camiones"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: DOBJ
+}
+lemma: "camión"
+: camionestext {
+  content: "con"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: PREP
+}
+lemma: "con"
+: context {
+  content: "ayuda"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: POBJ
+}
+lemma: "ayuda"
+: ayudatext {
+  content: "humanitaria"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: AMOD
+}
+lemma: "humanitario"
+: humanitariatext {
+  content: "que"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PRON
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: NSUBJ
+}
+lemma: "que"
+: quetext {
+  content: "pasaron"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: PERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PAST
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 4
+  label: RCMOD
+}
+lemma: "pasar"
+: pasarontext {
+  content: "frontera"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: DOBJ
+}
+lemma: "frontera"
+: fronteratext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Murió"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: PERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PAST
+  voice: ACTIVE
+}
+dependency_edge {
+  label: ROOT
+}
+lemma: "Morir"
+: Muriótext {
+  content: "otro"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: DOBJ
+}
+lemma: "otro"
+: otrotext {
+  content: "venezolano"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanotext {
+  content: "del"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "de"
+: deltext {
+  content: "accidente"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: POBJ
+}
+lemma: "accidente"
+: accidentetext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "la"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: DET
+}
+lemma: "el"
+: latext {
+  content: "vía"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: POBJ
+}
+lemma: "vía"
+: víatext {
+  content: "Valledupar"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: APPOS
+}
+lemma: "Valledupar"
+: Valledupartext {
+  content: "–"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: P
+}
+lemma: "–"
+: –text {
+  content: "Valencia"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: CONJ
+}
+lemma: "Valencia"
+: Valenciatext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Maduro"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: NSUBJ
+}
+lemma: "Maduro"
+: Madurotext {
+  content: "aboga"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "abogar"
+: abogatext {
+  content: "por"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "por"
+: portext {
+  content: "\""
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: P
+}
+lemma: "\""
+: "text {
+  content: "ayuda"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: POBJ
+}
+lemma: "ayuda"
+: ayudatext {
+  content: "divina"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: AMOD
+}
+lemma: "divino"
+: divinatext {
+  content: "\""
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: P
+}
+lemma: "\""
+: "text {
+  content: ","
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: P
+}
+lemma: ","
+: ,text {
+  content: "para"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "para"
+: paratext {
+  content: "solucionar"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  proper: NOT_PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 8
+  label: PCOMP
+}
+lemma: "solucionar"
+: solucionartext {
+  content: "crisis"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: DOBJ
+}
+lemma: "crisis"
+: crisistext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "las"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 11
+  label: POBJ
+}
+lemma: "el"
+: lastext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "EE."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: DEP
+}
+lemma: "EE."
+: EE.text {
+  content: "UU."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: NSUBJ
+}
+lemma: "UU."
+: UU.text {
+  content: "acusa"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 2
+  label: ROOT
+}
+lemma: "acusar"
+: acusatext {
+  content: "a"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "a"
+: atext {
+  content: "Venezuela"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: POBJ
+}
+lemma: "Venezuela"
+: Venezuelatext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "incrementar"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  proper: NOT_PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 5
+  label: PCOMP
+}
+lemma: "incrementar"
+: incrementartext {
+  content: "la"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: DET
+}
+lemma: "el"
+: latext {
+  content: "represión"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: DOBJ
+}
+lemma: "represión"
+: represióntext {
+  content: "después"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADV
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: ADVMOD
+}
+lemma: "después"
+: despuéstext {
+  content: "del"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: PREP
+}
+lemma: "de"
+: deltext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Autoridades"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: NSUBJ
+}
+lemma: "Autoridad"
+: Autoridadestext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "anunciaron"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: PERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PAST
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 2
+  label: ROOT
+}
+lemma: "anunciar"
+: anunciarontext {
+  content: "investigación"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: DOBJ
+}
+lemma: "investigación"
+: investigacióntext {
+  content: "a"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "a"
+: atext {
+  content: "Guaidó"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: POBJ
+}
+lemma: "Guaidó"
+: Guaidótext {
+  content: "por"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "por"
+: portext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "\'"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: P
+}
+lemma: "\'"
+: 'text {
+  content: "Mantenga"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  aspect: IMPERFECTIVE
+  mood: SUBJUNCTIVE
+  number: SINGULAR
+  proper: NOT_PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "Mantenga"
+: Mantengatext {
+  content: "su"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PRON
+  gender: FEMININE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: DET
+}
+lemma: "él"
+: sutext {
+  content: "venezolana"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: POBJ
+}
+lemma: "venezolano"
+: venezolanatext {
+  content: "\'"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: P
+}
+lemma: "\'"
+: 'text {
+  content: ","
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: P
+}
+lemma: ","
+: ,text {
+  content: "la"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: DET
+}
+lemma: "el"
+: latext {
+  content: "canción"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: APPOS
+}
+lemma: "canción"
+: cancióntext {
+  content: "que"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PRON
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: NSUBJ
+}
+lemma: "que"
+: quetext {
+  content: "genera"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 7
+  label: RCMOD
+}
+lemma: "generar"
+: generatext {
+  content: "polémica"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: DOBJ
+}
+lemma: "polémico"
+: polémicatext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 10
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "la"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 13
+  label: DET
+}
+lemma: "el"
+: latext {
+  content: "costa"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 11
+  label: POBJ
+}
+lemma: "costa"
+: costa
+text {
+  content: "Relaciones"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: NSUBJ
+}
+lemma: "Relación"
+: Relacionestext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "con"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: PREP
+}
+lemma: "con"
+: context {
+  content: "Bonaire"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: POBJ
+}
+lemma: "Bonaire"
+: Bonairetext {
+  content: ","
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: P
+}
+lemma: ","
+: ,text {
+  content: "Aruba"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: CONJ
+}
+lemma: "Aruba"
+: Arubatext {
+  content: "y"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: CONJ
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: CC
+}
+lemma: "y"
+: ytext {
+  content: "Curazao"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: CONJ
+}
+lemma: "Curazao"
+: Curazaotext {
+  content: "pasan"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 8
+  label: ROOT
+}
+lemma: "pasar"
+: pasantext {
+  content: "a"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: PREP
+}
+lemma: "a"
+: atext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "\'"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: P
+}
+lemma: "\'"
+: 'text {
+  content: "Mantenga"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  aspect: IMPERFECTIVE
+  mood: SUBJUNCTIVE
+  number: SINGULAR
+  proper: NOT_PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "Mantenga"
+: Mantengatext {
+  content: "su"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PRON
+  gender: FEMININE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: DET
+}
+lemma: "él"
+: sutext {
+  content: "venezolana"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: POBJ
+}
+lemma: "venezolano"
+: venezolanatext {
+  content: "\'"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: P
+}
+lemma: "\'"
+: 'text {
+  content: ","
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: P
+}
+lemma: ","
+: ,text {
+  content: "la"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: DET
+}
+lemma: "el"
+: latext {
+  content: "canción"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: APPOS
+}
+lemma: "canción"
+: cancióntext {
+  content: "que"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PRON
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: NSUBJ
+}
+lemma: "que"
+: quetext {
+  content: "genera"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 7
+  label: RCMOD
+}
+lemma: "generar"
+: generatext {
+  content: "polémica"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: DOBJ
+}
+lemma: "polémico"
+: polémicatext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 10
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "la"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 13
+  label: DET
+}
+lemma: "el"
+: latext {
+  content: "costa"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 11
+  label: POBJ
+}
+lemma: "costa"
+: costa
+text {
+  content: "Denuncian"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  label: ROOT
+}
+lemma: "Denunciar"
+: Denunciantext {
+  content: "124"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NUM
+  gender: FEMININE
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: NUM
+}
+lemma: "124"
+: 124text {
+  content: "detenciones"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: DOBJ
+}
+lemma: "detención"
+: detencionestext {
+  content: "durante"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "durante"
+: durantetext {
+  content: "protestas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: POBJ
+}
+lemma: "protestas"
+: protestastext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "apagón"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: POBJ
+}
+lemma: "apagón"
+: apagóntext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "Venezuela"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: POBJ
+}
+lemma: "Venezuela"
+: Venezuela
+text {
+  content: "Banco"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: NSUBJ
+}
+lemma: "Banco"
+: Bancotext {
+  content: "ruso"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  label: AMOD
+}
+lemma: "ruso"
+: rusotext {
+  content: "Rusfincorp"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  label: APPOS
+}
+lemma: "Rusfincorp"
+: Rusfincorptext {
+  content: ","
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: P
+}
+lemma: ","
+: ,text {
+  content: "sancionado"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: VMOD
+}
+lemma: "sancionar"
+: sancionadotext {
+  content: "por"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: PREP
+}
+lemma: "por"
+: portext {
+  content: "EE."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: POBJ
+}
+lemma: "EE."
+: EE.text {
+  content: "UU."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: NN
+}
+lemma: "UU."
+: UU.text {
+  content: ","
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: P
+}
+lemma: ","
+: ,text {
+  content: "asumirá"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: FUTURE
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 9
+  label: ROOT
+}
+lemma: "asumir"
+: asumirátext {
+  content: "cuentas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: DOBJ
+}
+lemma: "cuenta"
+: cuentastext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 10
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Ayuda"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: ROOT
+}
+lemma: "Ayuda"
+: Ayudatext {
+  content: "humanitaria"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: ACOMP
+}
+lemma: "humanitario"
+: humanitariatext {
+  content: ":"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: P
+}
+lemma: ":"
+: :text {
+  content: "militares"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: NSUBJ
+}
+lemma: "militar"
+: militarestext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "EE."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: DEP
+}
+lemma: "EE."
+: EE.text {
+  content: "UU."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: POBJ
+}
+lemma: "UU."
+: UU.text {
+  content: "y"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: CONJ
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: CC
+}
+lemma: "y"
+: ytext {
+  content: "Colombia"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: CONJ
+}
+lemma: "Colombia"
+: Colombiatext {
+  content: "piden"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  label: PARATAXIS
+}
+lemma: "pedir"
+: pidentext {
+  content: "a"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: PREP
+}
+lemma: "a"
+: atext {
+  content: "Fuerzas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 10
+  label: POBJ
+}
+lemma: "Fuerza"
+: Fuerzastext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "¿"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: P
+}
+lemma: "¿"
+: ¿text {
+  content: "Habrá"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: FUTURE
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 3
+  label: ADVCL
+}
+lemma: "Haber"
+: Habrátext {
+  content: "efecto"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: DOBJ
+}
+lemma: "efecto"
+: efectotext {
+  content: "dominó"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: PERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PAST
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 3
+  label: ROOT
+}
+lemma: "dominar"
+: dominótext {
+  content: "por"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: PREP
+}
+lemma: "por"
+: portext {
+  content: "deserciones"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: POBJ
+}
+lemma: "deserción"
+: desercionestext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "?"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: P
+}
+lemma: "?"
+: ?
+text {
+  content: "En"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: PREP
+}
+lemma: "En"
+: Entext {
+  content: "Ureña"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  label: POBJ
+}
+lemma: "Ureño"
+: Ureñatext {
+  content: ","
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: P
+}
+lemma: ","
+: ,text {
+  content: "niños"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: NSUBJ
+}
+lemma: "niño"
+: niñostext {
+  content: "piden"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 4
+  label: ROOT
+}
+lemma: "pedir"
+: pidentext {
+  content: "que"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: MARK
+}
+lemma: "que"
+: quetext {
+  content: "los"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PRON
+  case: ACCUSATIVE
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: DOBJ
+}
+lemma: "el"
+: lostext {
+  content: "dejen"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: SUBJUNCTIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 4
+  label: CCOMP
+}
+lemma: "dejar"
+: dejentext {
+  content: "cruzar"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  proper: NOT_PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 7
+  label: XCOMP
+}
+lemma: "cruzar"
+: cruzartext {
+  content: "la"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 10
+  label: DET
+}
+lemma: "el"
+: latext {
+  content: "frontera"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: DOBJ
+}
+lemma: "frontera"
+: fronteratext {
+  content: "para"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: PREP
+}
+lemma: "para"
+: paratext {
+  content: "estudiar"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  proper: NOT_PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 11
+  label: PCOMP
+}
+lemma: "estudiar"
+: estudiar
+text {
+  content: "Río"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: NN
+}
+lemma: "Río"
+: Ríotext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: X
+  number: SINGULAR
+}
+dependency_edge {
+  head_token_index: 2
+  label: NN
+}
+lemma: "de"
+: detext {
+  content: "susurros"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: X
+}
+dependency_edge {
+  head_token_index: 2
+  label: ROOT
+}
+lemma: "susurros"
+: susurros
+text {
+  content: "¿"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: P
+}
+lemma: "¿"
+: ¿text {
+  content: "Puede"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "Poder"
+: Puedetext {
+  content: "el"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: DET
+}
+lemma: "el"
+: eltext {
+  content: "gobierno"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: NSUBJ
+}
+lemma: "gobierno"
+: gobiernotext {
+  content: "colombiano"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: AMOD
+}
+lemma: "colombiano"
+: colombianotext {
+  content: "transferir"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  proper: NOT_PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 1
+  label: CCOMP
+}
+lemma: "transferir"
+: transferirtext {
+  content: "las"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: DET
+}
+lemma: "el"
+: lastext {
+  content: "empresas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: DOBJ
+}
+lemma: "empresa"
+: empresastext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Nacer"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  proper: NOT_PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  label: ROOT
+}
+lemma: "Nacer"
+: Nacertext {
+  content: ","
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: P
+}
+lemma: ","
+: ,text {
+  content: "comer"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  proper: NOT_PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  label: PARATAXIS
+}
+lemma: "comer"
+: comertext {
+  content: "y"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: CONJ
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: CC
+}
+lemma: "y"
+: ytext {
+  content: "vivir"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  proper: NOT_PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 2
+  label: CONJ
+}
+lemma: "vivir"
+: vivirtext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "la"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: DET
+}
+lemma: "el"
+: latext {
+  content: "frontera"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: POBJ
+}
+lemma: "frontera"
+: frontera
+text {
+  content: "Defensa"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: NSUBJ
+}
+lemma: "Defensa"
+: Defensatext {
+  content: "Civil"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: AMOD
+}
+lemma: "Civil"
+: Civiltext {
+  content: "busca"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 2
+  label: ROOT
+}
+lemma: "buscar"
+: buscatext {
+  content: "evaluar"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  proper: NOT_PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 2
+  label: XCOMP
+}
+lemma: "evaluar"
+: evaluartext {
+  content: "con"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: PREP
+}
+lemma: "con"
+: context {
+  content: "ente"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: POBJ
+}
+lemma: "ente"
+: entetext {
+  content: "venezolano"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanotext {
+  content: "crisis"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: APPOS
+}
+lemma: "crisis"
+: crisistext {
+  content: "humanitaria"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: AMOD
+}
+lemma: "humanitario"
+: humanitaria
+text {
+  content: "Expertos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: NSUBJ
+}
+lemma: "Experto"
+: Expertostext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "libertad"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: POBJ
+}
+lemma: "libertad"
+: libertadtext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "expresión"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: POBJ
+}
+lemma: "expresión"
+: expresióntext {
+  content: "advierten"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 5
+  label: ROOT
+}
+lemma: "advertir"
+: adviertentext {
+  content: "sobre"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: PREP
+}
+lemma: "sobre"
+: sobretext {
+  content: "aumento"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: POBJ
+}
+lemma: "aumento"
+: aumentotext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Fundaciones"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: NSUBJ
+}
+lemma: "Fundación"
+: Fundacionestext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "refuerzan"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 2
+  label: ROOT
+}
+lemma: "reforzar"
+: refuerzantext {
+  content: "labor"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: DOBJ
+}
+lemma: "labor"
+: labortext {
+  content: "para"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "para"
+: paratext {
+  content: "atender"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  proper: NOT_PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 4
+  label: PCOMP
+}
+lemma: "atender"
+: atendertext {
+  content: "a"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: PREP
+}
+lemma: "a"
+: atext {
+  content: "sus"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PRON
+  gender: MASCULINE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: POBJ
+}
+lemma: "él"
+: sustext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Gobierno"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: NSUBJ
+}
+lemma: "Gobierno"
+: Gobiernotext {
+  content: "confirmó"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: PERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PAST
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "confirmar"
+: confirmótext {
+  content: "retiro"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: DOBJ
+}
+lemma: "retiro"
+: retirotext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "todo"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: PREDET
+}
+lemma: "todo"
+: todotext {
+  content: "el"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: DET
+}
+lemma: "el"
+: eltext {
+  content: "personal"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: POBJ
+}
+lemma: "personal"
+: personaltext {
+  content: "diplomático"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: APPOS
+}
+lemma: "diplomático"
+: diplomáticotext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "Venezuela"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: POBJ
+}
+lemma: "Venezuela"
+: Venezuela
+text {
+  content: "Este"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: DET
+}
+lemma: "Este"
+: Estetext {
+  content: "martes"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: DOBJ
+}
+lemma: "martes"
+: martestext {
+  content: "habrá"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: FUTURE
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 2
+  label: ROOT
+}
+lemma: "haber"
+: habrátext {
+  content: "reunión"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: NSUBJ
+}
+lemma: "reunión"
+: reunióntext {
+  content: "extraordinaria"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: AMOD
+}
+lemma: "extraordinario"
+: extraordinariatext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "la"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: DET
+}
+lemma: "el"
+: latext {
+  content: "ONU"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: POBJ
+}
+lemma: "ONU"
+: ONUtext {
+  content: "sobre"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: PREP
+}
+lemma: "sobre"
+: sobretext {
+  content: "situación"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: POBJ
+}
+lemma: "situación"
+: situacióntext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Familias"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: NSUBJ
+}
+lemma: "Familia"
+: Familiastext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "y"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: CONJ
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: CC
+}
+lemma: "y"
+: ytext {
+  content: "cartageneras"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: CONJ
+}
+lemma: "cartageneras"
+: cartagenerastext {
+  content: "invaden"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 4
+  label: ROOT
+}
+lemma: "invadir"
+: invadentext {
+  content: "terreno"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: DOBJ
+}
+lemma: "terreno"
+: terrenotext {
+  content: "y"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: CONJ
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: CC
+}
+lemma: "y"
+: ytext {
+  content: "construyen"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 4
+  label: CONJ
+}
+lemma: "construir"
+: construyentext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Primeros"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: AMOD
+}
+lemma: "Primero"
+: Primerostext {
+  content: "camiones"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: NSUBJ
+}
+lemma: "camión"
+: camionestext {
+  content: "con"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "con"
+: context {
+  content: "ayuda"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: POBJ
+}
+lemma: "ayuda"
+: ayudatext {
+  content: "desde"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: PREP
+}
+lemma: "desde"
+: desdetext {
+  content: "Colombia"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: POBJ
+}
+lemma: "Colombia"
+: Colombiatext {
+  content: "permanecen"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 6
+  label: ROOT
+}
+lemma: "permanecer"
+: permanecentext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Guaidó"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+  tense: PAST
+}
+dependency_edge {
+  head_token_index: 1
+  label: NSUBJ
+}
+lemma: "Guaidar"
+: Guaidótext {
+  content: "pregunta"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "preguntar"
+: preguntatext {
+  content: "a"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "a"
+: atext {
+  content: "Fuerzas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: POBJ
+}
+lemma: "Fuerza"
+: Fuerzastext {
+  content: "Armadas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: AMOD
+}
+lemma: "Armadas"
+: Armadastext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: ":"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: P
+}
+lemma: ":"
+: :text {
+  content: "¿"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 10
+  label: P
+}
+lemma: "¿"
+: ¿text {
+  content: "Qué"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PRON
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 10
+  label: NSUBJ
+}
+lemma: "Qué"
+: Quétext {
+  content: "más"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADV
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: ADVMOD
+}
+lemma: "más"
+: mástext {
+  content: "van"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 1
+  label: PARATAXIS
+}
+lemma: "ir"
+: vantext {
+  content: "a"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 10
+  label: PREP
+}
+lemma: "a"
+: atext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 10
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Periodista"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: NSUBJ
+}
+lemma: "Periodista"
+: Periodistatext {
+  content: "Luis"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  label: APPOS
+}
+lemma: "Luis"
+: Luistext {
+  content: "Carlos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: NN
+}
+lemma: "Carlos"
+: Carlostext {
+  content: "Díaz"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: NN
+}
+lemma: "Díaz"
+: Díaztext {
+  content: "se"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PRON
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: PRT
+}
+lemma: "se"
+: setext {
+  content: "quedará"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: FUTURE
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 5
+  label: ROOT
+}
+lemma: "quedar"
+: quedarátext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "Venezuela"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: POBJ
+}
+lemma: "Venezuela"
+: Venezuelatext {
+  content: ","
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: P
+}
+lemma: ","
+: ,text {
+  content: "dicen"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 5
+  label: PARATAXIS
+}
+lemma: "decir"
+: dicentext {
+  content: "sus"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PRON
+  gender: MASCULINE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 11
+  label: DET
+}
+lemma: "él"
+: sustext {
+  content: "padres"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: DOBJ
+}
+lemma: "padre"
+: padres
+text {
+  content: "Fuerzas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: NSUBJ
+}
+lemma: "Fuerza"
+: Fuerzastext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "impiden"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 2
+  label: ROOT
+}
+lemma: "impedir"
+: impidentext {
+  content: "paso"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: DOBJ
+}
+lemma: "paso"
+: pasotext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "ayuda"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: POBJ
+}
+lemma: "ayuda"
+: ayudatext {
+  content: "humanitaria"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: AMOD
+}
+lemma: "humanitario"
+: humanitaria
+text {
+  content: "La"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: DET
+}
+lemma: "El"
+: Latext {
+  content: "CIDH"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: NSUBJ
+}
+lemma: "CIDH"
+: CIDHtext {
+  content: "condena"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  aspect: IMPERFECTIVE
+  gender: FEMININE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+}
+dependency_edge {
+  head_token_index: 2
+  label: ROOT
+}
+lemma: "condena"
+: condenatext {
+  content: "la"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: DET
+}
+lemma: "el"
+: latext {
+  content: "violencia"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: DOBJ
+}
+lemma: "violencia"
+: violenciatext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "las"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: DET
+}
+lemma: "el"
+: lastext {
+  content: "fronteras"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: POBJ
+}
+lemma: "frontera"
+: fronterastext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanas
+text {
+  content: "Fuerzas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: NSUBJ
+}
+lemma: "Fuerza"
+: Fuerzastext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "impiden"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 2
+  label: ROOT
+}
+lemma: "impedir"
+: impidentext {
+  content: "paso"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: DOBJ
+}
+lemma: "paso"
+: pasotext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "ayuda"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: POBJ
+}
+lemma: "ayuda"
+: ayudatext {
+  content: "humanitaria"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: AMOD
+}
+lemma: "humanitario"
+: humanitaria
+text {
+  content: "En"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: ROOT
+}
+lemma: "En"
+: Entext {
+  content: "incertidumbre"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: POBJ
+}
+lemma: "incertidumbre"
+: incertidumbretext {
+  content: ","
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: P
+}
+lemma: ","
+: ,text {
+  content: "familias"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: CONJ
+}
+lemma: "familia"
+: familiastext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "que"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PRON
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: NSUBJ
+}
+lemma: "que"
+: quetext {
+  content: "debieron"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: PERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PAST
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 3
+  label: RCMOD
+}
+lemma: "deber"
+: debierontext {
+  content: "abandonar"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  proper: NOT_PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 6
+  label: XCOMP
+}
+lemma: "abandonar"
+: abandonartext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Autoridades"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: NSUBJ
+}
+lemma: "Autoridad"
+: Autoridadestext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "bloquean"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 2
+  label: ROOT
+}
+lemma: "bloquear"
+: bloqueantext {
+  content: "con"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "con"
+: context {
+  content: "contenedores"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: POBJ
+}
+lemma: "contenedor"
+: contenedorestext {
+  content: "puente"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: APPOS
+}
+lemma: "puente"
+: puentetext {
+  content: "La"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: DET
+}
+lemma: "El"
+: Latext {
+  content: "Unión"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: APPOS
+}
+lemma: "Unión"
+: Unión
+text {
+  content: "Nicolás"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: NSUBJ
+}
+lemma: "Nicolás"
+: Nicolástext {
+  content: "Maduro"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  label: NN
+}
+lemma: "Maduro"
+: Madurotext {
+  content: "usa"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 2
+  label: ROOT
+}
+lemma: "usar"
+: usatext {
+  content: "Bandes"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: DOBJ
+}
+lemma: "Bandes"
+: Bandestext {
+  content: "Uruguay"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: NN
+}
+lemma: "Uruguay"
+: Uruguaytext {
+  content: "ante"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "ante"
+: antetext {
+  content: "restricciones"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: POBJ
+}
+lemma: "restricción"
+: restriccionestext {
+  content: "del"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: PREP
+}
+lemma: "de"
+: deltext {
+  content: "sistema"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: POBJ
+}
+lemma: "sistema"
+: sistematext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Una"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: DET
+}
+lemma: "Un"
+: Unatext {
+  content: "lupa"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "lupa"
+: lupatext {
+  content: "sobre"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "sobre"
+: sobretext {
+  content: "las"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: DET
+}
+lemma: "el"
+: lastext {
+  content: "mujeres"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: POBJ
+}
+lemma: "mujer"
+: mujerestext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "migrantes"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: AMOD
+}
+lemma: "migrantes"
+: migrantes
+text {
+  content: "Bomberos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: NSUBJ
+}
+lemma: "Bombero"
+: Bomberostext {
+  content: "calificaron"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: PERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PAST
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "calificar"
+: calificarontext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "ofensivo"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: POBJ
+}
+lemma: "ofensivo"
+: ofensivotext {
+  content: "al"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "a"
+: altext {
+  content: "alcalde"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: POBJ
+}
+lemma: "alcalde"
+: alcaldetext {
+  content: "Hernández"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: APPOS
+}
+lemma: "Hernández"
+: Hernándeztext {
+  content: "por"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "por"
+: portext {
+  content: "llamar"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  proper: NOT_PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 7
+  label: PCOMP
+}
+lemma: "llamar"
+: llamartext {
+  content: "los"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: DOBJ
+}
+lemma: "el"
+: lostext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Maduro"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: NSUBJ
+}
+lemma: "Maduro"
+: Madurotext {
+  content: "pide"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "pedir"
+: pidetext {
+  content: "rechazar"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  proper: NOT_PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 1
+  label: XCOMP
+}
+lemma: "rechazar"
+: rechazartext {
+  content: "violencia"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: DOBJ
+}
+lemma: "violencia"
+: violenciatext {
+  content: "como"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "como"
+: comotext {
+  content: "forma"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: POBJ
+}
+lemma: "forma"
+: formatext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "hacer"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  proper: NOT_PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 6
+  label: PCOMP
+}
+lemma: "hacer"
+: hacertext {
+  content: "política"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: DOBJ
+}
+lemma: "política"
+: políticatext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Estén"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: SUBJUNCTIVE
+  number: PLURAL
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  label: ROOT
+}
+lemma: "Estar"
+: Esténtext {
+  content: "del"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: PREP
+}
+lemma: "de"
+: deltext {
+  content: "lado"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: POBJ
+}
+lemma: "lado"
+: ladotext {
+  content: "correcto"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: AMOD
+}
+lemma: "correcto"
+: correctotext {
+  content: ":"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: P
+}
+lemma: ":"
+: :text {
+  content: "Duque"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  label: PARATAXIS
+}
+lemma: "Duque"
+: Duquetext {
+  content: "a"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: PREP
+}
+lemma: "a"
+: atext {
+  content: "FFAA"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: POBJ
+}
+lemma: "FFAA"
+: FFAAtext {
+  content: "Venezuela"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: NN
+}
+lemma: "Venezuela"
+: Venezuela
+text {
+  content: "Jefe"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: NSUBJ
+}
+lemma: "Jefe"
+: Jefetext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "la"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: DET
+}
+lemma: "el"
+: latext {
+  content: "ONU"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: POBJ
+}
+lemma: "ONU"
+: ONUtext {
+  content: "ruega"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  number: SINGULAR
+  person: THIRD
+  proper: PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 4
+  label: ROOT
+}
+lemma: "ruega"
+: ruegatext {
+  content: "a"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: PREP
+}
+lemma: "a"
+: atext {
+  content: "Venezuela"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: POBJ
+}
+lemma: "Venezuela"
+: Venezuelatext {
+  content: "\""
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: P
+}
+lemma: "\""
+: "text {
+  content: "no"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADV
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: NEG
+}
+lemma: "no"
+: notext {
+  content: "usar"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  proper: NOT_PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 4
+  label: PARATAXIS
+}
+lemma: "usar"
+: usartext {
+  content: "fuerza"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: DOBJ
+}
+lemma: "fuerza"
+: fuerzatext {
+  content: "contra"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: PREP
+}
+lemma: "contra"
+: contratext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Gobierno"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: NSUBJ
+}
+lemma: "Gobierno"
+: Gobiernotext {
+  content: "venezolano"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanotext {
+  content: "ubicó"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: PERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PAST
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 2
+  label: ROOT
+}
+lemma: "ubicar"
+: ubicótext {
+  content: "nuevos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: AMOD
+}
+lemma: "nuevo"
+: nuevostext {
+  content: "obstáculos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: DOBJ
+}
+lemma: "obstáculo"
+: obstáculostext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "el"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: DET
+}
+lemma: "el"
+: eltext {
+  content: "puente"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: POBJ
+}
+lemma: "puente"
+: puentetext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Critican"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  label: ROOT
+}
+lemma: "Criticar"
+: Criticantext {
+  content: "a"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: PREP
+}
+lemma: "a"
+: atext {
+  content: "Kika"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: POBJ
+}
+lemma: "Kika"
+: Kikatext {
+  content: "Nieto"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: NN
+}
+lemma: "Nieto"
+: Nietotext {
+  content: "por"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: PREP
+}
+lemma: "por"
+: portext {
+  content: "hacer"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  proper: NOT_PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 4
+  label: PCOMP
+}
+lemma: "hacer"
+: hacertext {
+  content: "un"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: DET
+}
+lemma: "un"
+: untext {
+  content: "video"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: DOBJ
+}
+lemma: "video"
+: videotext {
+  content: "con"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: PREP
+}
+lemma: "con"
+: context {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: POBJ
+}
+lemma: "venezolano"
+: venezolanas
+text {
+  content: "Denuncian"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  label: ROOT
+}
+lemma: "Denunciar"
+: Denunciantext {
+  content: "desintegración"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: DOBJ
+}
+lemma: "desintegración"
+: desintegracióntext {
+  content: "familiar"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: AMOD
+}
+lemma: "familiar"
+: familiartext {
+  content: "por"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "por"
+: portext {
+  content: "éxodo"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: POBJ
+}
+lemma: "éxodo"
+: éxodotext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "venezolanos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: POBJ
+}
+lemma: "venezolano"
+: venezolanos
+text {
+  content: "Las"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: DET
+}
+lemma: "El"
+: Lastext {
+  content: "migrantes"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: NSUBJ
+}
+lemma: "migrante"
+: migrantestext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "terminarán"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: FUTURE
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 4
+  label: AUX
+}
+lemma: "terminar"
+: terminarántext {
+  content: "cuidando"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: ROOT
+}
+lemma: "cuidar"
+: cuidandotext {
+  content: "a"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: PREP
+}
+lemma: "a"
+: atext {
+  content: "otros"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: POBJ
+}
+lemma: "otros"
+: otros
+text {
+  content: "Ahora"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADV
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: ADVMOD
+}
+lemma: "Ahora"
+: Ahoratext {
+  content: "migrantes"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: NSUBJ
+}
+lemma: "migrante"
+: migrantestext {
+  content: "caminan"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 2
+  label: ROOT
+}
+lemma: "caminar"
+: caminantext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "familia"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: POBJ
+}
+lemma: "familia"
+: familia
+text {
+  content: "Prostitución"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: ROOT
+}
+lemma: "Prostitución"
+: Prostitucióntext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: POBJ
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "Colombia"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: POBJ
+}
+lemma: "Colombia"
+: Colombiatext {
+  content: ","
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: P
+}
+lemma: ","
+: ,text {
+  content: "otro"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: DET
+}
+lemma: "otro"
+: otrotext {
+  content: "drama"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: APPOS
+}
+lemma: "drama"
+: dramatext {
+  content: "del"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: PREP
+}
+lemma: "de"
+: deltext {
+  content: "éxodo"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: POBJ
+}
+lemma: "éxodo"
+: éxodo
+text {
+  content: "Las"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  case: ACCUSATIVE
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: NSUBJ
+}
+lemma: "El"
+: Lastext {
+  content: "encerraban"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PAST
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "encerrar"
+: encerrabantext {
+  content: "con"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "con"
+: context {
+  content: "candado"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: POBJ
+}
+lemma: "candado"
+: candadotext {
+  content: ":"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: P
+}
+lemma: ":"
+: :text {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "obligadas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: VMOD
+}
+lemma: "obligar"
+: obligadastext {
+  content: "a"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: PREP
+}
+lemma: "a"
+: atext {
+  content: "prostituir"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  proper: NOT_PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 7
+  label: PCOMP
+}
+lemma: "prostituir"
+: prostituirtext {
+  content: "se"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PRON
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: DEP
+}
+lemma: "se"
+: setext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Distrito"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: NSUBJ
+}
+lemma: "Distrito"
+: Distritotext {
+  content: "atendió"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: PERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PAST
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "atender"
+: atendiótext {
+  content: "más"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADV
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: ADVMOD
+}
+lemma: "más"
+: mástext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "3.000"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NUM
+  gender: MASCULINE
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: NUM
+}
+lemma: "3.000"
+: 3.000text {
+  content: "partos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: POBJ
+}
+lemma: "parto"
+: partostext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: POBJ
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "2018"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NUM
+  gender: MASCULINE
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: POBJ
+}
+lemma: "2018"
+: 2018text {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "Bogotá"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 10
+  label: POBJ
+}
+lemma: "Bogotá"
+: Bogotá
+text {
+  content: "Inmigración"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: ROOT
+}
+lemma: "Inmigración"
+: Inmigracióntext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: POBJ
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: ":"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: P
+}
+lemma: ":"
+: :text {
+  content: "un"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: DET
+}
+lemma: "un"
+: untext {
+  content: "problema"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: APPOS
+}
+lemma: "problema"
+: problematext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "salud"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: POBJ
+}
+lemma: "salud"
+: saludtext {
+  content: "pública"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: AMOD
+}
+lemma: "público"
+: pública
+text {
+  content: "En"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: PREP
+}
+lemma: "En"
+: Entext {
+  content: "hospital"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: POBJ
+}
+lemma: "hospital"
+: hospitaltext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "Cúcuta"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: POBJ
+}
+lemma: "Cúcuta"
+: Cúcutatext {
+  content: "nacen"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 4
+  label: ROOT
+}
+lemma: "nacer"
+: nacentext {
+  content: "más"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADV
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: ADVMOD
+}
+lemma: "más"
+: mástext {
+  content: "niños"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: ACOMP
+}
+lemma: "niños"
+: niñostext {
+  content: "hijos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: AMOD
+}
+lemma: "hijo"
+: hijostext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: POBJ
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "que"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PRON
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 11
+  label: NSUBJ
+}
+lemma: "que"
+: quetext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 11
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "La"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: DET
+}
+lemma: "El"
+: Latext {
+  content: "tensa"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "tensar"
+: tensatext {
+  content: "calma"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: APPOS
+}
+lemma: "calma"
+: calmatext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "la"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: DET
+}
+lemma: "el"
+: latext {
+  content: "frontera"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: POBJ
+}
+lemma: "frontera"
+: fronteratext {
+  content: "venezolana"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanatext {
+  content: "con"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: PREP
+}
+lemma: "con"
+: context {
+  content: "Colombia"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: POBJ
+}
+lemma: "Colombia"
+: Colombiatext {
+  content: "y"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: CONJ
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: CC
+}
+lemma: "y"
+: ytext {
+  content: "Brasil"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: CONJ
+}
+lemma: "Brasil"
+: Brasil
+text {
+  content: "Así"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADV
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: ADVMOD
+}
+lemma: "Así"
+: Asítext {
+  content: "operaba"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PAST
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "operar"
+: operabatext {
+  content: "banda"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: NSUBJ
+}
+lemma: "banda"
+: bandatext {
+  content: "que"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PRON
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: NSUBJ
+}
+lemma: "que"
+: quetext {
+  content: "esclavizaba"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PAST
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 2
+  label: RCMOD
+}
+lemma: "esclavizar"
+: esclavizabatext {
+  content: "sexualmente"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADV
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: ADVMOD
+}
+lemma: "sexualmente"
+: sexualmentetext {
+  content: "a"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: PREP
+}
+lemma: "a"
+: atext {
+  content: "mujeres"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: POBJ
+}
+lemma: "mujer"
+: mujerestext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Gobierno"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: NSUBJ
+}
+lemma: "Gobierno"
+: Gobiernotext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "Venezuela"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: POBJ
+}
+lemma: "Venezuela"
+: Venezuelatext {
+  content: "señala"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 3
+  label: ROOT
+}
+lemma: "señalar"
+: señalatext {
+  content: "que"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 10
+  label: MARK
+}
+lemma: "que"
+: quetext {
+  content: "explosión"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 10
+  label: NSUBJ
+}
+lemma: "explosión"
+: explosióntext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "sede"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: POBJ
+}
+lemma: "sede"
+: sedetext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "PDVSA"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: POBJ
+}
+lemma: "PDVSA"
+: PDVSAtext {
+  content: "fue"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: PERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PAST
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 3
+  label: CCOMP
+}
+lemma: "ir"
+: fuetext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Suiza"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: NSUBJ
+}
+lemma: "Suiza"
+: Suizatext {
+  content: "investiga"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "investigar"
+: investigatext {
+  content: "presuntas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: AMOD
+}
+lemma: "presunto"
+: presuntastext {
+  content: "cuentas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: DOBJ
+}
+lemma: "cuenta"
+: cuentastext {
+  content: "corruptas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: AMOD
+}
+lemma: "corrupto"
+: corruptastext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "Capriles"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: POBJ
+}
+lemma: "Capriles"
+: Capriles
+text {
+  content: "Gobierno"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: NSUBJ
+}
+lemma: "Gobierno"
+: Gobiernotext {
+  content: "impide"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "impedir"
+: impidetext {
+  content: "ingreso"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: DOBJ
+}
+lemma: "ingreso"
+: ingresotext {
+  content: "a"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "a"
+: atext {
+  content: "Colombia"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: POBJ
+}
+lemma: "Colombia"
+: Colombiatext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "familiares"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: POBJ
+}
+lemma: "familiar"
+: familiarestext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "Maduro"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: POBJ
+}
+lemma: "Maduro"
+: Maduro
+text {
+  content: "Marta"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: NSUBJ
+}
+lemma: "Marta"
+: Martatext {
+  content: "Lucía"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  label: NN
+}
+lemma: "Lucia"
+: Lucíatext {
+  content: "Ramírez"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  label: NN
+}
+lemma: "Ramírez"
+: Ramíreztext {
+  content: "aprovecha"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 3
+  label: ROOT
+}
+lemma: "aprovechar"
+: aprovechatext {
+  content: "el"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: DET
+}
+lemma: "el"
+: eltext {
+  content: "pantallazo"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: DOBJ
+}
+lemma: "pantallazo"
+: pantallazotext {
+  content: "y"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: CONJ
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: CC
+}
+lemma: "y"
+: ytext {
+  content: "se"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PRON
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: PRT
+}
+lemma: "se"
+: setext {
+  content: "las"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PRON
+  case: ACCUSATIVE
+  gender: FEMININE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: DOBJ
+}
+lemma: "el"
+: lastext {
+  content: "da"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 3
+  label: CONJ
+}
+lemma: "dar"
+: datext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "periodista"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 10
+  label: POBJ
+}
+lemma: "periodista"
+: periodistatext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Maduro"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: NSUBJ
+}
+lemma: "Maduro"
+: Madurotext {
+  content: "les"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PRON
+  case: DATIVE
+  gender: MASCULINE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: IOBJ
+}
+lemma: "ellos"
+: lestext {
+  content: "pide"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 2
+  label: ROOT
+}
+lemma: "pedir"
+: pidetext {
+  content: "a"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "a"
+: atext {
+  content: "venezolanos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: POBJ
+}
+lemma: "venezolano"
+: venezolanostext {
+  content: "tener"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  proper: NOT_PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 2
+  label: XCOMP
+}
+lemma: "tener"
+: tenertext {
+  content: "linternas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: DOBJ
+}
+lemma: "linternas"
+: linternastext {
+  content: "y"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: CONJ
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: CC
+}
+lemma: "y"
+: ytext {
+  content: "tanques"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: CONJ
+}
+lemma: "tanque"
+: tanquestext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "agua"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: POBJ
+}
+lemma: "agua"
+: agua
+text {
+  content: "Despliegue"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: ROOT
+}
+lemma: "Despliegue"
+: Desplieguetext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "tropas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: POBJ
+}
+lemma: "tropa"
+: tropastext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "la"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: DET
+}
+lemma: "el"
+: latext {
+  content: "frontera"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: POBJ
+}
+lemma: "frontera"
+: fronteratext {
+  content: "con"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: PREP
+}
+lemma: "con"
+: context {
+  content: "Colombia"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: POBJ
+}
+lemma: "Colombia"
+: Colombia
+text {
+  content: "En"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: PREP
+}
+lemma: "En"
+: Entext {
+  content: "Magdalena"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  label: POBJ
+}
+lemma: "Magdalena"
+: Magdalenatext {
+  content: "cada"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: DET
+}
+lemma: "cada"
+: cadatext {
+  content: "día"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: TMOD
+}
+lemma: "día"
+: díatext {
+  content: "se"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PRON
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: PRT
+}
+lemma: "se"
+: setext {
+  content: "atienden"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: PASSIVE
+}
+dependency_edge {
+  head_token_index: 5
+  label: ROOT
+}
+lemma: "atender"
+: atiendentext {
+  content: "dos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NUM
+  gender: MASCULINE
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: NUM
+}
+lemma: "dos"
+: dostext {
+  content: "partos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: DOBJ
+}
+lemma: "parto"
+: partostext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: POBJ
+}
+lemma: "venezolano"
+: venezolanas
+text {
+  content: "5"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NUM
+  gender: FEMININE
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: NUM
+}
+lemma: "5"
+: 5text {
+  content: "mujeres"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: NSUBJ
+}
+lemma: "mujer"
+: mujerestext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "dan"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 3
+  label: ROOT
+}
+lemma: "dar"
+: dantext {
+  content: "a"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: PREP
+}
+lemma: "a"
+: atext {
+  content: "luz"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: POBJ
+}
+lemma: "luz"
+: luztext {
+  content: "diariamente"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADV
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: ADVMOD
+}
+lemma: "diariamente"
+: diariamentetext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "el"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 9
+  label: DET
+}
+lemma: "el"
+: eltext {
+  content: "Atlántico"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: POBJ
+}
+lemma: "Atlántico"
+: Atlántico
+text {
+  content: "Ahora"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADV
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: ADVMOD
+}
+lemma: "Ahora"
+: Ahoratext {
+  content: "migrantes"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: NSUBJ
+}
+lemma: "migrante"
+: migrantestext {
+  content: "caminan"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 2
+  label: ROOT
+}
+lemma: "caminar"
+: caminantext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "familia"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: POBJ
+}
+lemma: "familia"
+: familia
+text {
+  content: "Bogotá"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: NSUBJ
+}
+lemma: "Bogotá"
+: Bogotátext {
+  content: "registra"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "registrar"
+: registratext {
+  content: "atención"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: DOBJ
+}
+lemma: "atención"
+: atencióntext {
+  content: "a"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "a"
+: atext {
+  content: "más"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADV
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: PCOMP
+}
+lemma: "más"
+: mástext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "cinco"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NUM
+  gender: MASCULINE
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: NUM
+}
+lemma: "cinco"
+: cincotext {
+  content: "mil"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NUM
+  gender: FEMININE
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: POBJ
+}
+lemma: "mil"
+: miltext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "embarazadas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: AMOD
+}
+lemma: "embarazar"
+: embarazadas
+text {
+  content: "Ambulancias"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: NSUBJ
+}
+lemma: "Ambulancia"
+: Ambulanciastext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: PROPER
+}
+dependency_edge {
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "cruzaron"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: PERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PAST
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 2
+  label: ROOT
+}
+lemma: "cruzar"
+: cruzarontext {
+  content: "a"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "a"
+: atext {
+  content: "Brasil"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: POBJ
+}
+lemma: "Brasil"
+: Brasiltext {
+  content: "con"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "con"
+: context {
+  content: "cinco"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NUM
+  gender: MASCULINE
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: NUM
+}
+lemma: "cinco"
+: cincotext {
+  content: "heridos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: POBJ
+}
+lemma: "heridos"
+: heridos
+text {
+  content: "\""
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: P
+}
+lemma: "\""
+: "text {
+  content: "La"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: DET
+}
+lemma: "El"
+: Latext {
+  content: "valentía"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: NSUBJ
+}
+lemma: "valentía"
+: valentíatext {
+  content: "del"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "de"
+: deltext {
+  content: "pueblo"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: POBJ
+}
+lemma: "pueblo"
+: pueblotext {
+  content: "hará"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: FUTURE
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 5
+  label: ROOT
+}
+lemma: "hacer"
+: harátext {
+  content: "que"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: PREP
+}
+lemma: "que"
+: quetext {
+  content: "las"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: DET
+}
+lemma: "el"
+: lastext {
+  content: "fuerzas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: POBJ
+}
+lemma: "fuerza"
+: fuerzastext {
+  content: "militares"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: AMOD
+}
+lemma: "militar"
+: militarestext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: "se"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PRON
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: APPOS
+}
+lemma: "se"
+: setext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "“"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: P
+}
+lemma: "“"
+: “text {
+  content: "Tropas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: NSUBJ
+}
+lemma: "Tropa"
+: Tropastext {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "la"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: DET
+}
+lemma: "el"
+: latext {
+  content: "frontera"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: POBJ
+}
+lemma: "frontera"
+: fronteratext {
+  content: "muestran"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 5
+  label: ROOT
+}
+lemma: "mostrar"
+: muestrantext {
+  content: "el"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: DET
+}
+lemma: "el"
+: eltext {
+  content: "miedo"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: DOBJ
+}
+lemma: "miedo"
+: miedotext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "Maduro"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: POBJ
+}
+lemma: "Maduro"
+: Madurotext {
+  content: "”"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: P
+}
+lemma: "”"
+: ”text {
+  content: ":"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: P
+}
+lemma: ":"
+: :text {
+  content: "líder"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: APPOS
+}
+lemma: "líder"
+: lídertext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Barcos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: NSUBJ
+}
+lemma: "Barco"
+: Barcostext {
+  content: "venezolanos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: MASCULINE
+  number: PLURAL
+  proper: PROPER
+}
+dependency_edge {
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanostext {
+  content: "zarparon"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: PERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PAST
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 2
+  label: ROOT
+}
+lemma: "zarpar"
+: zarparontext {
+  content: "para"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: PREP
+}
+lemma: "para"
+: paratext {
+  content: "impedir"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  proper: NOT_PROPER
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 3
+  label: PCOMP
+}
+lemma: "impedir"
+: impedirtext {
+  content: "que"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: MARK
+}
+lemma: "que"
+: quetext {
+  content: "llegue"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: SUBJUNCTIVE
+  number: SINGULAR
+  person: FIRST
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 4
+  label: CCOMP
+}
+lemma: "llegar"
+: lleguetext {
+  content: "ayuda"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: DOBJ
+}
+lemma: "ayudar"
+: ayudatext {
+  content: "desde"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 6
+  label: PREP
+}
+lemma: "desde"
+: desdetext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "Migración"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: NSUBJ
+}
+lemma: "Migración"
+: Migracióntext {
+  content: "afecta"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: SINGULAR
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "afectar"
+: afectatext {
+  content: "las"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: DET
+}
+lemma: "el"
+: lastext {
+  content: "mascotas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: DOBJ
+}
+lemma: "mascota"
+: mascotastext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "familias"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: FEMININE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 4
+  label: POBJ
+}
+lemma: "familia"
+: familiastext {
+  content: "venezolanas"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: FEMININE
+  number: PLURAL
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanastext {
+  content: ","
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: P
+}
+lemma: ","
+: ,text {
+  content: "en"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: PREP
+}
+lemma: "en"
+: entext {
+  content: "ambos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PRON
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 8
+  label: POBJ
+}
+lemma: "ambos"
+: ambostext {
+  content: "..."
+  begin_offset: -1
+}
+part_of_speech {
+  tag: PUNCT
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: P
+}
+lemma: "..."
+: ...
+text {
+  content: "En"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: PREP
+}
+lemma: "En"
+: Entext {
+  content: "Cúcuta"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  label: POBJ
+}
+lemma: "Cúcuta"
+: Cúcutatext {
+  content: "ahora"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADV
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: ADVMOD
+}
+lemma: "ahora"
+: ahoratext {
+  content: "nacen"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: VERB
+  aspect: IMPERFECTIVE
+  mood: INDICATIVE
+  number: PLURAL
+  person: THIRD
+  proper: NOT_PROPER
+  tense: PRESENT
+  voice: ACTIVE
+}
+dependency_edge {
+  head_token_index: 3
+  label: ROOT
+}
+lemma: "nacer"
+: nacentext {
+  content: "más"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADV
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: ADVMOD
+}
+lemma: "más"
+: mástext {
+  content: "bebés"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: DOBJ
+}
+lemma: "bebé"
+: bebéstext {
+  content: "venezolanos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: MASCULINE
+  number: PLURAL
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: AMOD
+}
+lemma: "venezolano"
+: venezolanostext {
+  content: "que"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  gender: MASCULINE
+  number: PLURAL
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 5
+  label: PREP
+}
+lemma: "que"
+: quetext {
+  content: "colombianos"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADJ
+  gender: MASCULINE
+  number: PLURAL
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 7
+  label: POBJ
+}
+lemma: "colombiano"
+: colombianos
+text {
+  content: "El"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: DET
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: DET
+}
+lemma: "El"
+: Eltext {
+  content: "apagón"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: ROOT
+}
+lemma: "apagón"
+: apagóntext {
+  content: "de"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: ADP
+  proper: NOT_PROPER
+}
+dependency_edge {
+  head_token_index: 1
+  label: PREP
+}
+lemma: "de"
+: detext {
+  content: "Nicolás"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 2
+  label: POBJ
+}
+lemma: "Nicolás"
+: Nicolástext {
+  content: "Maduro"
+  begin_offset: -1
+}
+part_of_speech {
+  tag: NOUN
+  gender: MASCULINE
+  number: SINGULAR
+  proper: PROPER
+}
+dependency_edge {
+  head_token_index: 3
+  label: NN
+}
+lemma: "Maduro"
+: Maduro
