@@ -1,0 +1,67 @@
+"","Var1","Var2","Freq"
+"1","antioquia","NEGATIVE",78
+"2","atlantico","NEGATIVE",44
+"3","bolivar department","NEGATIVE",14
+"4","boyaca department","NEGATIVE",2
+"5","caldas department","NEGATIVE",4
+"6","caqueta","NEGATIVE",0
+"7","cauca","NEGATIVE",2
+"8","cesar","NEGATIVE",10
+"9","cordoba","NEGATIVE",2
+"10","cundinamarca","NEGATIVE",317
+"11","huila","NEGATIVE",1
+"12","magdalena department","NEGATIVE",9
+"13","meta","NEGATIVE",5
+"14","narino","NEGATIVE",2
+"15","norte de santander","NEGATIVE",12
+"16","quindio","NEGATIVE",1
+"17","risaralda","NEGATIVE",13
+"18","san andres y providencia","NEGATIVE",0
+"19","santander","NEGATIVE",29
+"20","sucre","NEGATIVE",2
+"21","tolima","NEGATIVE",5
+"22","valle del cauca","NEGATIVE",44
+"23","antioquia","NEUTRAL",50
+"24","atlantico","NEUTRAL",15
+"25","bolivar department","NEUTRAL",4
+"26","boyaca department","NEUTRAL",2
+"27","caldas department","NEUTRAL",3
+"28","caqueta","NEUTRAL",1
+"29","cauca","NEUTRAL",1
+"30","cesar","NEUTRAL",5
+"31","cordoba","NEUTRAL",5
+"32","cundinamarca","NEUTRAL",126
+"33","huila","NEUTRAL",0
+"34","magdalena department","NEUTRAL",3
+"35","meta","NEUTRAL",5
+"36","narino","NEUTRAL",0
+"37","norte de santander","NEUTRAL",5
+"38","quindio","NEUTRAL",1
+"39","risaralda","NEUTRAL",5
+"40","san andres y providencia","NEUTRAL",1
+"41","santander","NEUTRAL",13
+"42","sucre","NEUTRAL",2
+"43","tolima","NEUTRAL",3
+"44","valle del cauca","NEUTRAL",21
+"45","antioquia","POSITIVE",49
+"46","atlantico","POSITIVE",17
+"47","bolivar department","POSITIVE",6
+"48","boyaca department","POSITIVE",0
+"49","caldas department","POSITIVE",2
+"50","caqueta","POSITIVE",0
+"51","cauca","POSITIVE",1
+"52","cesar","POSITIVE",3
+"53","cordoba","POSITIVE",2
+"54","cundinamarca","POSITIVE",137
+"55","huila","POSITIVE",1
+"56","magdalena department","POSITIVE",2
+"57","meta","POSITIVE",2
+"58","narino","POSITIVE",0
+"59","norte de santander","POSITIVE",5
+"60","quindio","POSITIVE",1
+"61","risaralda","POSITIVE",6
+"62","san andres y providencia","POSITIVE",0
+"63","santander","POSITIVE",10
+"64","sucre","POSITIVE",0
+"65","tolima","POSITIVE",6
+"66","valle del cauca","POSITIVE",25
